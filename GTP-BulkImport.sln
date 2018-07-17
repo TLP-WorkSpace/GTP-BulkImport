@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GTP-BulkImport", "GTP-BulkImport\GTP-BulkImport.csproj", "{FF7409EB-9EF6-422B-B11A-0EB4E5C7D682}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTP-BulkRepositories", "GTP-BulkRepositories\GTP-BulkRepositories.csproj", "{C1B8B989-D92D-462A-9CE4-CD49C0B2B92D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FF7409EB-9EF6-422B-B11A-0EB4E5C7D682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF7409EB-9EF6-422B-B11A-0EB4E5C7D682}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF7409EB-9EF6-422B-B11A-0EB4E5C7D682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B8B989-D92D-462A-9CE4-CD49C0B2B92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B8B989-D92D-462A-9CE4-CD49C0B2B92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B8B989-D92D-462A-9CE4-CD49C0B2B92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B8B989-D92D-462A-9CE4-CD49C0B2B92D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
