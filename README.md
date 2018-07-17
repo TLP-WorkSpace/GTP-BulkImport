@@ -1,2 +1,0 @@
-# GTP
-GTP-BulkImport
