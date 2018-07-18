@@ -21,9 +21,9 @@
     <PackageReference Include="Dapper" Version="1.50.5" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.0.1" />
     <PackageReference Include="NETStandard.Library" Version="2.0.3" />
-    <PackageReference Include="Swashbuckle" Version="6.0.0-beta902" />
-    <PackageReference Include="Sino.Web" Version="1.1.22-beta9" />
     <PackageReference Include="Sino.Extensions.Dapper" Version="1.1.13-beta-5" />
+    <PackageReference Include="Sino.Web" Version="1.1.22-beta9" />
+    <PackageReference Include="Swashbuckle" Version="6.0.0-beta902" />
   </ItemGroup>
 
   <ItemGroup>
