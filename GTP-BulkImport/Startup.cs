@@ -25,7 +25,7 @@ namespace GTP_BulkImport
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton(Configuration);
-            services.AddDapper(Configuration.GetConnectionString("WriteConnection"), Configuration.GetConnectionString("ReadConnection"));
+            //services.AddDapper(Configuration.GetConnectionString("WriteConnection"), Configuration.GetConnectionString("ReadConnection"));
             // Add framework services.
             services.AddTransient<IImportRepository, ImportRepository>();
             services.AddMvc();

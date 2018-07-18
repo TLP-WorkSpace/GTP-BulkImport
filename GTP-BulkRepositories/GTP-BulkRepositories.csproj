@@ -6,9 +6,9 @@
 
   <ItemGroup>
     <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="Savorboard.NPOI.Core.Ooxml" Version="1.1.4" />
     <PackageReference Include="Sino.Extensions.Dapper" Version="1.1.13-beta-5" />
     <PackageReference Include="Sino.Web" Version="1.1.22-beta9" />
-    <PackageReference Include="Savorboard.NPOI.Core.Ooxml" Version="1.1.4" />
   </ItemGroup>
 
 </Project>
